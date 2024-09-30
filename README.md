@@ -1,8 +1,4 @@
-### Hi there 👋
-I'm so bad at being consistent but I love virtual pets so here we go, say hi to Jam!
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Tammy404/30-nites-of-code)  
-  ![@Tammy404 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Tammy404)
+
 
 <!--
 **tammypaws404/tammypaws404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
